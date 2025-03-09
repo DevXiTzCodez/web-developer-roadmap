@@ -166,8 +166,8 @@ Understanding the basics of programming, the internet, and the tools you'll be u
     - [👌🏻]  Download [Git](https://git-scm.com/downloads)
     - [👌🏻]  Create and publish a first Github repository containing only a text file with your name
     - [👌🏻]  Fork this repository and update the MD file as soon as you proceed with the roadmap
-- [ ]  Create a [Linkedin](https://www.linkedin.com/) account (we will optimize it in the next weeks)
-    - [ ]  Send me a [connection](https://www.linkedin.com/in/alfonso-graziano/) if you want
+- [👌🏻]  Create a [Linkedin](https://www.linkedin.com/) account (we will optimize it in the next weeks)
+    - [👌🏻]  Send me a [connection](https://www.linkedin.com/in/alfonso-graziano/) if you want
 
 #### Extra curricular resources
 
